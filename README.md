@@ -6,8 +6,8 @@ Linux is an open-source operating system that provides a **multi-user, multi-tas
 This course covers Linux from basic to advanced levels, focusing on essential concepts and practical applications.
 
 ## What is Linux?
- -Linux is a **Unix-like operating system** developed by **Linus Torvalds** in 1991. 
- -It is based on a **kernel** that supports both **command-line interface (CLI) and graphical user interface (GUI)**.
+ - Linux is a **Unix-like operating system** developed by **Linus Torvalds** in 1991. 
+ - It is based on a **kernel** that supports both **command-line interface (CLI) and graphical user interface (GUI)**.
 
 ### Key Features:
 - **Open Source:** The source code is freely available for modification and distribution.
