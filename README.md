@@ -3,7 +3,7 @@
 ## Overview
 This repository contains solutions of the  Assignments of the **NPTEL Linux Course** 
 Linux is an open-source operating system that provides a **multi-user, multi-tasking, and secure environment**.  
-This course covers Linux from basic to advanced levels, focusing on essential concepts and practical applications.
+This course covers Linux from basic to advanced levels, focusing on essential concepts and practical applications. 
 
 ## What is Linux?
  - Linux is a **Unix-like operating system** developed by **Linus Torvalds** in 1991. 
