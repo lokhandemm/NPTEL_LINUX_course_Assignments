@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains solutions of the  Assignments of the **NPTEL Linux Course** 
-Linux is an open-source operating system that provides a **multi-user, multi-tasking, and secure environment**. 
+Linux is an open-source operating system that provides a **multi-user, multi-tasking, and secure environment**.  
 This course covers Linux from basic to advanced levels, focusing on essential concepts and practical applications.
 
 ## What is Linux?
