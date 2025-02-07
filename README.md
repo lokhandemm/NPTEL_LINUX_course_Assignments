@@ -12,7 +12,7 @@ This course covers Linux from basic to advanced levels, focusing on essential co
 ### Key Features:
 - **Open Source:** The source code is freely available for modification and distribution.
 - **Multi-User & Multi-Tasking:** Multiple users can work simultaneously.
-- **Security & Stability:** Built-in permissions and firewall mechanisms enhance security.
+- **Security & Stability:** Built-in permissions and firewall mechanisms enhance security. 
 - **Shell Scripting:** Supports automation through powerful scripting capabilities.
 
 
