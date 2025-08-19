@@ -10,7 +10,7 @@ This course covers Linux from basic to advanced levels, focusing on essential co
  - It is based on a **kernel** that supports both **command-line interface (CLI) and graphical user interface (GUI)**.
 
 ### Key Features: 
-- **Open Source:** The source code is freely available for modification and distribution.
+- **Open Source:** The source code is freely available for modification and distribution. 
 - **Multi-User & Multi-Tasking:** Multiple users can work simultaneously.
 - **Security & Stability:** Built-in permissions and firewall mechanisms enhance security. 
 - **Shell Scripting:** Supports automation through powerful scripting capabilities.
